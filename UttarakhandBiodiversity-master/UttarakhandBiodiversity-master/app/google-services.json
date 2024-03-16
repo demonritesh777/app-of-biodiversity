@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "581005914171",
+    "project_id": "uttarakhandbiodiversity",
+    "storage_bucket": "uttarakhandbiodiversity.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:581005914171:android:ea5b2f1dd8dcc28be26c1e",
+        "android_client_info": {
+          "package_name": "org.example.uttarakhandbiodiversity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "581005914171-m8moro2lg94lm12gj5f8nt234m8rhj1t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "org.example.uttarakhandbiodiversity",
+            "certificate_hash": "2196c67798f0a80ca94ffef0b8209d85e5552054"
+          }
+        },
+        {
+          "client_id": "581005914171-tp2790ku2gnha3eg9eiet6cd8vfsk9qb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKIEdLURpNY3Z_Pa0veMpr7209ENfBZgI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "581005914171-tp2790ku2gnha3eg9eiet6cd8vfsk9qb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
